@@ -3,7 +3,7 @@
 Este projeto é um layout de site básico desenvolvido com HTML e CSS. Ele inclui uma barra de navegação fixa no topo, uma imagem de fundo com sobreposição escura, e uma seção central com um título, subtítulo e botões de ação.
 
 ## Demonstração 🎥
-Você pode visualizar o layout ao vivo [aqui](https://marstefany.github.io/Basic-Website-Layout/).
+Você pode visualizar o layout ao vivo [aqui](https://marstefany.github.io/Basic-home-page-layout/).
 
 ## Tecnologias Utilizadas 🚀
 - *HTML5*: Utilizado para estruturar o projeto e definir a marcação básica do layout.
